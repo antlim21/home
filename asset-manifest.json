@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe927caf.css",
-    "main.js": "/static/js/main.e7253ec5.js",
-    "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
-    "static/media/alimpic.jpg": "/static/media/alimpic.65405e80343c8e469d63.jpg",
-    "static/media/Queensboro_FC_logo.svg.png": "/static/media/Queensboro_FC_logo.svg.ab3dcd7c2dad1168967b.png",
-    "static/media/State Street.png": "/static/media/State Street.67c9298bfb1a9e31485b.png",
-    "index.html": "/index.html",
-    "main.fe927caf.css.map": "/static/css/main.fe927caf.css.map",
-    "main.e7253ec5.js.map": "/static/js/main.e7253ec5.js.map",
-    "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
+    "main.css": "/home/static/css/main.fe927caf.css",
+    "main.js": "/home/static/js/main.0ac3b105.js",
+    "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
+    "static/media/alimpic.jpg": "/home/static/media/alimpic.65405e80343c8e469d63.jpg",
+    "static/media/Queensboro_FC_logo.svg.png": "/home/static/media/Queensboro_FC_logo.svg.ab3dcd7c2dad1168967b.png",
+    "static/media/State Street.png": "/home/static/media/State Street.67c9298bfb1a9e31485b.png",
+    "index.html": "/home/index.html",
+    "main.fe927caf.css.map": "/home/static/css/main.fe927caf.css.map",
+    "main.0ac3b105.js.map": "/home/static/js/main.0ac3b105.js.map",
+    "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.e7253ec5.js"
+    "static/js/main.0ac3b105.js"
   ]
 }
